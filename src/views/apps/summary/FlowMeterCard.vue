@@ -1,4 +1,6 @@
 <!-- eslint-disable vue/html-indent -->
+
+<!-- 
 <template>
   <div class="w-full p-1">
     <div class="overflow-x-auto">
@@ -116,3 +118,4 @@ export default {
   max-height: 78px;
 }
 </style>
+-->
