@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "location": "DD6 (Digdola Big Pond)",
+      "fillPercentage": "155 %",
+      "battery": "3.99",
+      "time": "2025-07-30 15:54:00",
+      "communicationStatus": "green",
+      "batteryStatus": "green",
+      "deviceKey": "6isrqimgjj8k",
+      "changeIndicator": "down"
+    },
+    {
+      "location": "DD7 (Digdola Stock Pond)",
+      "fillPercentage": "0 %",
+      "battery": "3.91",
+      "time": "2025-07-30 15:34:00",
+      "communicationStatus": "green",
+      "batteryStatus": "green",
+      "deviceKey": "jlk45gfd88hk",
+      "changeIndicator": "down"
+    },
+    {
+      "location": "DD11 (Digdola Boundary Pond)",
+      "fillPercentage": "95 %",
+      "battery": "3.99",
+      "time": "2025-07-30 15:53:00",
+      "communicationStatus": "green",
+      "batteryStatus": "green",
+      "deviceKey": "98fhgk54lmn0",
+      "changeIndicator": "down"
+    },
+    {
+      "location": "MNC 2 (MNC Big Pond)",
+      "fillPercentage": "100 %",
+      "battery": "4.00",
+      "time": "2025-07-30 15:52:00",
+      "communicationStatus": "green",
+      "batteryStatus": "green",
+      "deviceKey": "b67dfhgnc934",
+      "changeIndicator": "down"
+    },
+    {
+      "location": "MNC 3 (MNC Stock Pond)",
+      "fillPercentage": "0 %",
+      "battery": "3.93",
+      "time": "2025-04-11 13:33:00",
+      "communicationStatus": "red",
+      "batteryStatus": "green",
+      "deviceKey": "x9fg46jklzop",
+      "changeIndicator": null
+    },
+    {
+      "location": "Mill 1500 Pond",
+      "fillPercentage": "25 %",
+      "battery": "3.91",
+      "time": "2025-07-30 15:56:00",
+      "communicationStatus": "green",
+      "batteryStatus": "green",
+      "deviceKey": "qwe89tyui56z",
+      "changeIndicator": "down"
+    },
+    {
+      "location": "Mill 750 Pond",
+      "fillPercentage": "0 %",
+      "battery": "3.93",
+      "time": "2025-07-30 15:52:00",
+      "communicationStatus": "green",
+      "batteryStatus": "green",
+      "deviceKey": "ghr45yplq290",
+      "changeIndicator": "down"
+    }
+  ],
+  "debug": []
+}
